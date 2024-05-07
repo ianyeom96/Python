@@ -1,0 +1,190 @@
+species,area,year,B_Bmsy,F_Fmsy,species_code,area_code
+Acadian redfish,Gulf of Maine/Georges Bank,2020,1.536000013,0.446999997,Acadian_redfish,Gulf_of_Maine/Georges_Bank
+Alaska plaice,Bering Sea/Aleutian Islands,2021,1.577999949,0.467000008,Alaska_plaice,Bering_Sea/Aleutian_Islands
+Alaska skate,Bering Sea/Aleutian Islands,2021,2.276000023,0.337000012,Alaska_skate,Bering_Sea/Aleutian_Islands
+Albacore,North Atlantic,2020,1.320000052,0.634000003,Albacore,North_Atlantic
+American plaice,Gulf of Maine/Georges Bank,2019,1.161000013,0.344999999,American_plaice,Gulf_of_Maine/Georges_Bank
+Arrowtooth flounder,Bering Sea/Aleutian Islands,2021,2.573999882,0.105999999,Arrowtooth_flounder,Bering_Sea/Aleutian_Islands
+Arrowtooth flounder,Gulf of Alaska,2021,2.049999952,0.123999998,Arrowtooth_flounder,Gulf_of_Alaska
+Atka mackerel,Bering Sea/Aleutian Islands,2021,1.164000034,0.610000014,Atka_mackerel,Bering_Sea/Aleutian_Islands
+Atlantic herring,Northwestern Atlantic Coast,2020,0.289999992,0.467999995,Atlantic_herring,Northwestern_Atlantic_Coast
+Atlantic mackerel,Gulf of Maine/Cape Hatteras,2021,0.237000004,2.082000017,Atlantic_mackerel,Gulf_of_Maine/Cape_Hatteras
+Atlantic sharpnose shark,Atlantic,2013,2.078000069,0.233999997,Atlantic_sharpnose_shark,Atlantic
+Atlantic surfclam,Mid-Atlantic Coast,2020,1.190000057,0.254999995,Atlantic_surfclam,Mid-Atlantic_Coast
+Atlantic wolffish,Gulf of Maine/Georges Bank,2020,0.437999994,0.025,Atlantic_wolffish,Gulf_of_Maine/Georges_Bank
+Aurora rockfish,Pacific Coast,2013,1.593999982,0.614000022,Aurora_rockfish,Pacific_Coast
+Big skate,Pacific Coast,2019,1.980000019,0.148000002,Big_skate,Pacific_Coast
+Bigeye tuna,Eastern Pacific,2020,0.920000017,1,Bigeye_tuna,Eastern_Pacific
+Bigeye tuna,Atlantic,2021,0.939999998,1,Bigeye_tuna,Atlantic
+Bigeye tuna,Western and Central Pacific,2020,1.779999971,0.74000001,Bigeye_tuna,Western_and_Central_Pacific
+Black grouper,Southern Atlantic Coast/Gulf of Mexico,2010,1.399999976,0.5,Black_grouper,Southern_Atlantic_Coast/Gulf_of_Mexico
+Black rockfish,California,2019,1.437000036,0.453999996,Black_rockfish,California
+Black rockfish,Northern Pacific Coast,2007,1.379999995,0.698000014,Black_rockfish,Northern_Pacific_Coast
+Black rockfish,Oregon,2021,1.412999988,0.796000004,Black_rockfish,Oregon
+Black rockfish,Southern Pacific Coast,2007,1.761999965,0.469999999,Black_rockfish,Southern_Pacific_Coast
+Black rockfish,Washington,2019,1.18599999,0.875999987,Black_rockfish,Washington
+Black sea bass,Mid-Atlantic Coast,2021,2.061000109,0.84799999,Black_sea_bass,Mid-Atlantic_Coast
+Black sea bass,Southern Atlantic Coast,2018,0.713,0.634999991,Black_sea_bass,Southern_Atlantic_Coast
+Blackgill rockfish,Southern California,2019,1.036999941,0.423999995,Blackgill_rockfish,Southern_California
+Blue king crab,Pribilof Islands,2021,0.044,0,Blue_king_crab,Pribilof_Islands
+Blue king crab,Saint Matthew Island,2020,0.335000008,0.023,Blue_king_crab,Saint_Matthew_Island
+Blue marlin,Pacific,2021,1.172000051,0.564999998,Blue_marlin,Pacific
+Blue shark,North Pacific,2017,1.717000008,0.370999992,Blue_shark,North_Pacific
+Bluefish,Atlantic Coast,2021,0.474999994,0.949999988,Bluefish,Atlantic_Coast
+Blueline tilefish,Southern Atlantic Coast,2017,1.055999994,0.917999983,Blueline_tilefish,Southern_Atlantic_Coast
+Bocaccio,Southern Pacific Coast,2017,1.215000033,0.109999999,Bocaccio,Southern_Pacific_Coast
+Brown rockfish,Pacific Coast,2013,1.06400001,0.657999992,Brown_rockfish,Pacific_Coast
+Butterfish,Gulf of Maine/Cape Hatteras,2020,0.690999985,0.244000003,Butterfish,Gulf_of_Maine/Cape_Hatteras
+Cabezon,California,2009,1.20599997,0.455000013,Cabezon,California
+Cabezon,Northern California,2019,1.628999949,0.537999988,Cabezon,Northern_California
+Cabezon,Oregon,2019,1.32099998,0.833999991,Cabezon,Oregon
+Cabezon,Southern California,2019,1.233999968,0.375,Cabezon,Southern_California
+California scorpionfish,Southern California,2017,1.35800004,0.469999999,California_scorpionfish,Southern_California
+Canary rockfish,Pacific Coast,2021,1.427000046,0.483999997,Canary_rockfish,Pacific_Coast
+Caribbean spiny lobster,Puerto Rico,2020,1.345000029,0.832000017,Caribbean_spiny_lobster,Puerto_Rico
+Caribbean spiny lobster,St. Croix,2020,1.960999966,0.181999996,Caribbean_spiny_lobster,St._Croix
+Caribbean spiny lobster,St. Thomas/St. John,2020,1.549000025,0.680000007,Caribbean_spiny_lobster,St._Thomas/St._John
+Chilipepper,Southern Pacific Coast,2017,1.730000019,0.054000001,Chilipepper,Southern_Pacific_Coast
+China rockfish,Central Pacific Coast,2019,1.536000013,0.959999979,China_rockfish,Central_Pacific_Coast
+China rockfish,Northern Pacific Coast,2019,1.738000035,0.958000004,China_rockfish,Northern_Pacific_Coast
+China rockfish,Southern Pacific Coast,2019,0.788999975,0.931999981,China_rockfish,Southern_Pacific_Coast
+Chinook salmon,California Central Valley: Sacramento River Fall,2021,1.095000029,0.871999979,Chinook_salmon,California_Central_Valley:_Sacramento_River_Fall
+Chinook salmon,Columbia River Basin: Upper River Bright Fall,2021,1.917000055,0.384000003,Chinook_salmon,Columbia_River_Basin:_Upper_River_Bright_Fall
+Chinook salmon,Northern California Coast: Klamath River Fall,2021,0.740999997,0.592000008,Chinook_salmon,Northern_California_Coast:_Klamath_River_Fall
+Chinook salmon,Oregon Coast: Central and Northern Oregon,2021,1.549999952,0.833000004,Chinook_salmon,Oregon_Coast:_Central_and_Northern_Oregon
+Chinook salmon,Washington Coast: Grays Harbor Fall,2021,1.307999969,0.833000004,Chinook_salmon,Washington_Coast:_Grays_Harbor_Fall
+Chinook salmon,Washington Coast: Hoh Fall,2021,1.590999961,0.722000003,Chinook_salmon,Washington_Coast:_Hoh_Fall
+Chinook salmon,Washington Coast: Hoko Summer/Fall,2021,2.029000044,0.67900002,Chinook_salmon,Washington_Coast:_Hoko_Summer/Fall
+Chinook salmon,Washington Coast: Queets Fall,2021,1.019999981,0.746999979,Chinook_salmon,Washington_Coast:_Queets_Fall
+Chinook salmon,Washington Coast: Quillayute Fall,2021,2.101999998,0.746999979,Chinook_salmon,Washington_Coast:_Quillayute_Fall
+Chinook salmon,Washington Coast: Willapa Bay Fall Natural,2021,0.865999997,0.833000004,Chinook_salmon,Washington_Coast:_Willapa_Bay_Fall_Natural
+Cobia,Gulf of Mexico,2020,0.689000011,1.42900002,Cobia,Gulf_of_Mexico
+Coho salmon,Puget Sound: Hood Canal,2021,1.138000011,0.708000004,Coho_salmon,Puget_Sound:_Hood_Canal
+Coho salmon,Puget Sound: Skagit,2021,0.704999983,0.800000012,Coho_salmon,Puget_Sound:_Skagit
+Coho salmon,Puget Sound: Snohomish,2021,0.699000001,0.282999992,Coho_salmon,Puget_Sound:_Snohomish
+Coho salmon,Puget Sound: Stillaguamish,2021,1.235000014,0.439999998,Coho_salmon,Puget_Sound:_Stillaguamish
+Coho salmon,Washington Coast: Grays Harbor,2021,1.407999992,0.61500001,Coho_salmon,Washington_Coast:_Grays_Harbor
+Coho salmon,Washington Coast: Hoh,2021,1.190000057,0.876999974,Coho_salmon,Washington_Coast:_Hoh
+Coho salmon,Washington Coast: Queets,2021,0.493000001,0.876999974,Coho_salmon,Washington_Coast:_Queets
+Coho salmon,Washington Coast: Quillayute Fall,2021,1.057999969,0.626999974,Coho_salmon,Washington_Coast:_Quillayute_Fall
+Coho salmon,Washington Coast: Strait of Juan de Fuca,2021,0.472000003,0.200000003,Coho_salmon,Washington_Coast:_Strait_of_Juan_de_Fuca
+Coho salmon,Washington Coast: Willapa Bay Natural,2021,0.834999979,0.52700001,Coho_salmon,Washington_Coast:_Willapa_Bay_Natural
+Copper rockfish,Northern California,2021,0.985000014,0.810000002,Copper_rockfish,Northern_California
+Copper rockfish,Southern California,2021,0.451999992,0.879999995,Copper_rockfish,Southern_California
+Copper rockfish,Washington,2021,1.046000004,0.836000025,Copper_rockfish,Washington
+Cowcod,Southern California,2019,2.855999947,0.028000001,Cowcod,Southern_California
+Crimson jobfish,Main Hawaiian Islands,2018,1.269999981,0.584999979,Crimson_jobfish,Main_Hawaiian_Islands
+Darkblotched rockfish,Pacific Coast,2021,1.243999958,0.425999999,Darkblotched_rockfish,Pacific_Coast
+Dusky rockfish,Gulf of Alaska,2021,1.79400003,0.298000008,Dusky_rockfish,Gulf_of_Alaska
+Finetooth shark,Atlantic and Gulf of Mexico,2007,1.299999952,0.100000002,Finetooth_shark,Atlantic_and_Gulf_of_Mexico
+Flathead sole,Bering Sea/Aleutian Islands,2021,2.076999903,0.035,Flathead_sole,Bering_Sea/Aleutian_Islands
+Flathead sole,Gulf of Alaska,2021,2.676000118,0.041999999,Flathead_sole,Gulf_of_Alaska
+Gag,Gulf of Mexico,2021,0.079999998,2.78399992,Gag,Gulf_of_Mexico
+Gag,Southern Atlantic Coast,2021,0.150000006,2.147000074,Gag,Southern_Atlantic_Coast
+Gray snapper,Gulf of Mexico,2018,0.703999996,1.200000048,Gray_snapper,Gulf_of_Mexico
+Gray triggerfish,Gulf of Mexico,2020,0.579999983,0.620999992,Gray_triggerfish,Gulf_of_Mexico
+Greater amberjack,Gulf of Mexico,2021,0.342000008,1.725999951,Greater_amberjack,Gulf_of_Mexico
+Greater amberjack,Southern Atlantic Coast,2020,2.101000071,0.395000011,Greater_amberjack,Southern_Atlantic_Coast
+Green jobfish,Main Hawaiian Islands,2020,2.451999903,0.57099998,Green_jobfish,Main_Hawaiian_Islands
+Greenland halibut,Bering Sea/Aleutian Islands,2021,1.697000027,0.330000013,Greenland_halibut,Bering_Sea/Aleutian_Islands
+Greenspotted rockfish,Pacific Coast,2011,0.862999976,0.071000002,Greenspotted_rockfish,Pacific_Coast
+Greenstriped rockfish,Pacific Coast,2009,2.023000002,0.016000001,Greenstriped_rockfish,Pacific_Coast
+Hogfish,Eastern Gulf of Mexico,2018,2.358999968,0.509999991,Hogfish,Eastern_Gulf_of_Mexico
+Hogfish,Florida Keys/East Florida,2014,0.382999986,1.593999982,Hogfish,Florida_Keys/East_Florida
+Kamchatka flounder,Bering Sea/Aleutian Islands,2021,1.52699995,0.699000001,Kamchatka_flounder,Bering_Sea/Aleutian_Islands
+Kelp greenling,Oregon,2015,1.99000001,0.209999993,Kelp_greenling,Oregon
+King mackerel,Gulf of Mexico,2020,0.921999991,0.824000001,King_mackerel,Gulf_of_Mexico
+King mackerel,Southern Atlantic Coast,2020,1.735000014,0.289999992,King_mackerel,Southern_Atlantic_Coast
+Lingcod,Northern Pacific Coast,2021,1.603999972,0.261999995,Lingcod,Northern_Pacific_Coast
+Lingcod,Southern Pacific Coast,2021,0.985000014,0.351000011,Lingcod,Southern_Pacific_Coast
+Longnose skate,Pacific Coast,2019,2.825000048,0.477999985,Longnose_skate,Pacific_Coast
+Longspine thornyhead,Pacific Coast,2019,1.81400001,0.137999997,Longspine_thornyhead,Pacific_Coast
+Mutton snapper,Southern Atlantic Coast/Gulf of Mexico,2015,1.131999969,0.649999976,Mutton_snapper,Southern_Atlantic_Coast/Gulf_of_Mexico
+Northern rock sole,Bering Sea/Aleutian Islands,2021,1.674000025,0.433999986,Northern_rock_sole,Bering_Sea/Aleutian_Islands
+Northern rock sole,Central Gulf of Alaska,2021,1.437999964,0.395999998,Northern_rock_sole,Central_Gulf_of_Alaska
+Northern rock sole,Gulf of Alaska,2020,2.325999975,0.074000001,Northern_rock_sole,Gulf_of_Alaska
+Northern rock sole,Western Gulf of Alaska,2021,2.397000074,0.007,Northern_rock_sole,Western_Gulf_of_Alaska
+Northern rockfish,Bering Sea/Aleutian Islands,2021,2.095000029,0.328999996,Northern_rockfish,Bering_Sea/Aleutian_Islands
+Northern rockfish,Western/Central Gulf of Alaska,2021,1.432999969,0.425000012,Northern_rockfish,Western/Central_Gulf_of_Alaska
+Ocean pout,Northwestern Atlantic Coast,2020,0.033,0.638000011,Ocean_pout,Northwestern_Atlantic_Coast
+Ocean quahog,Atlantic Coast,2020,1.080000043,0.263000011,Ocean_quahog,Atlantic_Coast
+Pacific bluefin tuna,Pacific,2020,0.209999993,1.090000033,Pacific_bluefin_tuna,Pacific
+Pacific cod,Bering Sea,2021,1.059999943,0.667999983,Pacific_cod,Bering_Sea
+Pacific cod,Gulf of Alaska,2021,0.796999991,0.114,Pacific_cod,Gulf_of_Alaska
+Pacific hake,Pacific Coast,2021,1.480000019,0.657999992,Pacific_hake,Pacific_Coast
+Pacific ocean perch,Bering Sea/Aleutian Islands,2021,1.582999945,0.875999987,Pacific_ocean_perch,Bering_Sea/Aleutian_Islands
+Pacific ocean perch,Gulf of Alaska,2021,1.914000034,0.519999981,Pacific_ocean_perch,Gulf_of_Alaska
+Pacific ocean perch,Pacific Coast,2017,1.916000009,0.026000001,Pacific_ocean_perch,Pacific_Coast
+Petrale sole,Pacific Coast,2021,1.491000056,0.708999991,Petrale_sole,Pacific_Coast
+Pollock,Gulf of Maine/Georges Bank,2019,1.703999996,0.140000001,Pollock,Gulf_of_Maine/Georges_Bank
+Porbeagle,Northwestern Atlantic,2021,0.569999993,0.412999988,Porbeagle,Northwestern_Atlantic
+Quillback rockfish,California,2021,0.351999998,1.700000048,Quillback_rockfish,California
+Quillback rockfish,Oregon,2021,1.047999978,1.519999981,Quillback_rockfish,Oregon
+Quillback rockfish,Washington,2021,0.964999974,0.920000017,Quillback_rockfish,Washington
+Red grouper,Gulf of Mexico,2021,0.819999993,0.78399998,Red_grouper,Gulf_of_Mexico
+Red grouper,Southern Atlantic Coast,2017,0.286000013,1.539999962,Red_grouper,Southern_Atlantic_Coast
+Red king crab,Bristol Bay,2021,0.577000022,0.734000027,Red_king_crab,Bristol_Bay
+Red porgy,Southern Atlantic Coast,2020,0.270000011,1.73300004,Red_porgy,Southern_Atlantic_Coast
+Red snapper,Gulf of Mexico,2021,0.699999988,0.823000014,Red_snapper,Gulf_of_Mexico
+Red snapper,Southern Atlantic Coast,2021,0.439999998,2.200000048,Red_snapper,Southern_Atlantic_Coast
+Rex sole,Gulf of Alaska,2016,2.082000017,0.162000001,Rex_sole,Gulf_of_Alaska
+Rock sole,Central Gulf of Alaska,2021,1.860999942,0.275999993,Rock_sole,Central_Gulf_of_Alaska
+Rock sole,Gulf of Alaska,2020,2.323999882,0.052000001,Rock_sole,Gulf_of_Alaska
+Rock sole,Western Gulf of Alaska,2021,2.190999985,0.003,Rock_sole,Western_Gulf_of_Alaska
+Rougheye rockfish,Gulf of Alaska,2007,1.60800004,0.296999991,Rougheye_rockfish,Gulf_of_Alaska
+Sablefish,Eastern Bering Sea/Aleutian Islands/Gulf of Alaska,2021,1.039000034,0.61500001,Sablefish,Eastern_Bering_Sea/Aleutian_Islands/Gulf_of_Alaska
+Sablefish,Pacific Coast,2021,1.343999982,0.404000014,Sablefish,Pacific_Coast
+Sandbar shark,Atlantic and Gulf of Mexico,2018,0.773999989,0.57099998,Sandbar_shark,Atlantic_and_Gulf_of_Mexico
+Scalloped hammerhead,Atlantic and Gulf of Mexico,2009,0.449999988,1.289999962,Scalloped_hammerhead,Atlantic_and_Gulf_of_Mexico
+Scup,Atlantic Coast,2021,1.960000038,0.680000007,Scup,Atlantic_Coast
+Sea scallop,Northwestern Atlantic Coast,2020,1.432999969,0.556999981,Sea_scallop,Northwestern_Atlantic_Coast
+Sharpchin rockfish,Pacific Coast,2013,1.700000048,0.061000001,Sharpchin_rockfish,Pacific_Coast
+Shortbelly rockfish,Pacific Coast,2007,1.667000055,0,Shortbelly_rockfish,Pacific_Coast
+Shortfin mako,North Pacific,2018,1.356999993,0.61500001,Shortfin_mako,North_Pacific
+Shortspine thornyhead,Pacific Coast,2019,1.832000017,0.360000014,Shortspine_thornyhead,Pacific_Coast
+Silky shark,Western and Central Pacific,2018,1.177999973,1.605000019,Silky_shark,Western_and_Central_Pacific
+Silver hake,Gulf of Maine/Northern Georges Bank,2020,2.240999937,0.054000001,Silver_hake,Gulf_of_Maine/Northern_Georges_Bank
+Silver hake,Southern Georges Bank/Mid-Atlantic,2020,1.30400002,0.056000002,Silver_hake,Southern_Georges_Bank/Mid-Atlantic
+Skipjack tuna,Western Atlantic,2014,1.299999952,0.699999988,Skipjack_tuna,Western_Atlantic
+Skipjack tuna,Western and Central Pacific,2019,0.879000008,0.444000006,Skipjack_tuna,Western_and_Central_Pacific
+Smooth dogfish,Atlantic,2015,2.286000013,0.791000009,Smooth_dogfish,Atlantic
+Snow crab,Bering Sea,2021,0.173999995,0.275000006,Snow_crab,Bering_Sea
+Snowy grouper,Southern Atlantic Coast,2021,0.361999989,1.128999949,Snowy_grouper,Southern_Atlantic_Coast
+Southern Tanner crab,Bering Sea,2021,1.184000015,0.018999999,Southern_Tanner_crab,Bering_Sea
+Spanish mackerel,Gulf of Mexico,2013,1.838000059,0.361000001,Spanish_mackerel,Gulf_of_Mexico
+Spanish mackerel,Southern Atlantic Coast,2013,1.488999963,0.522000015,Spanish_mackerel,Southern_Atlantic_Coast
+Spanner crab,Main Hawaiian Islands,2019,1.381999969,0.072999999,Spanner_crab,Main_Hawaiian_Islands
+Spiny dogfish,Atlantic Coast,2018,0.670000017,0.828000009,Spiny_dogfish,Atlantic_Coast
+Spiny dogfish,Pacific Coast,2021,1.044999957,0.432000011,Spiny_dogfish,Pacific_Coast
+Splitnose rockfish,Pacific Coast,2009,1.639000058,0.129999995,Splitnose_rockfish,Pacific_Coast
+Squarespot rockfish,Pacific Coast,2021,0.93599999,0.388000011,Squarespot_rockfish,Pacific_Coast
+Striped marlin,Eastern Pacific,2010,1.194000006,0.358999997,Striped_marlin,Eastern_Pacific
+Striped marlin,Western and Central North Pacific,2019,0.395999998,0.912999988,Striped_marlin,Western_and_Central_North_Pacific
+Summer flounder,Mid-Atlantic Coast,2021,0.85799998,0.805999994,Summer_flounder,Mid-Atlantic_Coast
+Swordfish,Eastern Pacific,2014,1.879999995,1.070000052,Swordfish,Eastern_Pacific
+Swordfish,North Atlantic,2017,1.039999962,0.779999971,Swordfish,North_Atlantic
+Swordfish,Western and Central North Pacific,2018,1.870000005,0.439999998,Swordfish,Western_and_Central_North_Pacific
+Thresher shark,North Pacific,2018,1.34800005,0.209999993,Thresher_shark,North_Pacific
+Tilefish,Mid-Atlantic Coast,2021,0.961000025,0.609000027,Tilefish,Mid-Atlantic_Coast
+Tilefish,Southern Atlantic Coast,2021,0.926999986,0.947000027,Tilefish,Southern_Atlantic_Coast
+Vermilion rockfish,Oregon,2021,1.825000048,0.939999998,Vermilion_rockfish,Oregon
+Vermilion rockfish,Washington,2021,1.409000039,0.800000012,Vermilion_rockfish,Washington
+Vermilion snapper,Gulf of Mexico,2020,1.748000026,0.555999994,Vermilion_snapper,Gulf_of_Mexico
+Vermilion snapper,Southern Atlantic Coast,2018,1.131000042,0.610000014,Vermilion_snapper,Southern_Atlantic_Coast
+Walleye pollock,Aleutian Islands,2021,1.388000011,0.017999999,Walleye_pollock,Aleutian_Islands
+Walleye pollock,Eastern Bering Sea,2021,0.796000004,1.317000031,Walleye_pollock,Eastern_Bering_Sea
+Walleye pollock,Western/Central/West Yakutat Gulf of Alaska,2021,1.309999943,0.661000013,Walleye_pollock,Western/Central/West_Yakutat_Gulf_of_Alaska
+White hake,Gulf of Maine/Georges Bank,2019,0.499000013,0.768999994,White_hake,Gulf_of_Maine/Georges_Bank
+Widow rockfish,Pacific Coast,2019,2.299000025,0.853999972,Widow_rockfish,Pacific_Coast
+Windowpane,Southern New England/Mid-Atlantic,2020,1.5,0.748000026,Windowpane,Southern_New_England/Mid-Atlantic
+Winter flounder,Georges Bank,2020,0.356000006,0.372000009,Winter_flounder,Georges_Bank
+Winter flounder,Southern New England/Mid-Atlantic,2020,0.294999987,0.270999998,Winter_flounder,Southern_New_England/Mid-Atlantic
+Wreckfish,Southern Atlantic Coast,2014,1.582999945,0.583000004,Wreckfish,Southern_Atlantic_Coast
+Yelloweye rockfish,Pacific Coast,2017,0.708999991,0.187999994,Yelloweye_rockfish,Pacific_Coast
+Yellowfin sole,Bering Sea/Aleutian Islands,2021,1.899000049,1.077999949,Yellowfin_sole,Bering_Sea/Aleutian_Islands
+Yellowfin tuna,Atlantic,2019,1.169999957,0.959999979,Yellowfin_tuna,Atlantic
+Yellowfin tuna,Eastern Pacific,2020,1.580000043,0.649999976,Yellowfin_tuna,Eastern_Pacific
+Yellowfin tuna,Western and Central Pacific,2014,1.24000001,0.720000029,Yellowfin_tuna,Western_and_Central_Pacific
+Yellowtail flounder,Cape Cod/Gulf of Maine,2019,0.617999971,0.287999988,Yellowtail_flounder,Cape_Cod/Gulf_of_Maine
+Yellowtail flounder,Southern New England/Mid-Atlantic,2019,0.050999999,0.730000019,Yellowtail_flounder,Southern_New_England/Mid-Atlantic
+Yellowtail rockfish,Northern Pacific Coast,2017,1.879999995,0.294,Yellowtail_rockfish,Northern_Pacific_Coast
